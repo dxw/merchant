@@ -1,10 +1,10 @@
 Merchant
 ========================
 
-A command line app that manages payments payments using the DirectLink API using Ogone payment services.
+A command line app that manages payments using the DirectLink API through Ogone's payment services.
 
 ## Installation
-Clone repository: `$ git clone git@github.com:dxw/merchant.git`
+Clone repository: `$ git clone https://github.com/dxw/merchant.git`
 
 ## Usage
 
